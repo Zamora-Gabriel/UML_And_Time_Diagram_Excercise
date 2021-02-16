@@ -10,7 +10,7 @@ methods illustratating the use of each method within the game running time.
 ####**Download/Install**
 ---------
  - Browse to demo link
- - [Download Zip](https://github.com/Zamora-Gabriel/pg20Gabriel_IntroToOperatingSystems_A3.git)
+ - [Download Zip](https://github.com/Zamora-Gabriel/pg20Gabriel_IntroToOperatingSystems_A3/archive/master.zip)
  - Clone from github's repository on the demo link or download the project's zip and uncompress it.
 
 
